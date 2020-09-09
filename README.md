@@ -22,7 +22,7 @@ You can find me on :bird: Twitter, [@WindosNZ](https://twitter.com/WindosNZ), or
 
 ## Support the OnRamp Scholarship
 
-Please consider buying a copy of the PowerShell Conference Book, both [Volume 1](https://leanpub.com/powershell-conference-book) and [Volume 2](https://leanpub.com/psconfbook2)!
+Please consider buying a copy of the PowerShell Conference Book, both [Volume 1](https://leanpub.com/powershell-conference-book), [Volume 2](https://leanpub.com/psconfbook2), and [Volume 3](https://leanpub.com/psconfbook3)!
 
 100% of the royalties from sales of these books go towards [the DevOps Collective](https://devopscollective.org/)'s [OnRamp scholarship program](https://powershell.org/summit-old/summit-onramp/onramp-scholarship/).
 
