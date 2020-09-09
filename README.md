@@ -34,3 +34,5 @@ Please consider buying a copy of the PowerShell Conference Book, both [Volume 1]
 [![PS Conf Book 1](https://raw.githubusercontent.com/Windos/Windos/master/Images/PSConfBook1.jpg)](https://leanpub.com/powershell-conference-book)
 &nbsp;&nbsp;&nbsp;
 [![PS Conf Book 2](https://raw.githubusercontent.com/Windos/Windos/master/Images/PSConfBook2.png)](https://leanpub.com/psconfbook2)
+&nbsp;&nbsp;&nbsp;
+[![PS Conf Book 3](https://raw.githubusercontent.com/Windos/Windos/master/Images/PSConfBook3.png)](https://leanpub.com/psconfbook3)
