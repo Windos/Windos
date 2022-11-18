@@ -5,7 +5,7 @@ _Geek, Father, Walking Helpdesk._
 Hi! I'm Josh, a Systems Administrator and Microsoft MVP from New Zealand.
 I predominantly work within Windows and VMware environments and have a passion for all things PowerShell.
 
-You can find me on :bird: Twitter, [@WindosNZ](https://twitter.com/WindosNZ), or my :memo: [blog](https://toastit.dev/).
+You can find me on :bird: [Twitter](https://twitter.com/WindosNZ), 🐘 <a rel="me" href="https://mastodon.nz/@windos">Mastodon</a> or my :memo: [blog](https://toastit.dev/).
 
 [![MVP Badge](https://raw.githubusercontent.com/Windos/Windos/master/Images/MVP.png)](https://mvp.microsoft.com/en-us/PublicProfile/5003460?fullName=Josh%20%20King)
 &nbsp;&nbsp;&nbsp;
